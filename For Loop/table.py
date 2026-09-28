@@ -1,0 +1,1 @@
+# program to print a multiplication table of a given number
