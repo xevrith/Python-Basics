@@ -1,11 +1,9 @@
 # Simple Calculator
 
-def calculator():
-    num1 = int(input("Enter a number : "))
-    num2 = int(input("Enter a number : "))
+def calculator(num1,num2):
     total = num1 + num2
 
     print(total)
 
 
-calculator()
+calculator(10,20)

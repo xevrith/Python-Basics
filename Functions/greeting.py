@@ -1,6 +1,6 @@
 # Greeting Function
 
-def greet():
-    print("Welcome To Python")
+def greet(name):
+    print("Hello",name)
 
-greet()
+greet("Dude")
