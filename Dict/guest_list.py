@@ -11,3 +11,8 @@ print(f"Only Values : {guest.values()}")
 print(f"Items : {guest.items()}")
 
 print(guest.get("Name"))
+
+new_plan = {"Budget":[200.0,300.20,55.00]}
+guest.update(new_plan)
+
+print(guest)
