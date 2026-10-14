@@ -1,17 +1,16 @@
-# Student name 
-
 class Student:
 
-    def __init__(self, fullname, marks):
-        self.fullname = fullname
-        self.marks = marks
-        print("Adding new student in database")
+    school_name = "ABC"
+    def __init__(self,name,marks):
+        self.name = name
+        self.marks = marks 
+
+    def avg(self):
+        avg_marks = sum(self.marks) / len(self.marks)
+        print(f"Average Marks : {avg_marks}")
 
 
-s1 = Student("Alice", 450)
-print(s1.fullname)
-print(s1.marks)
 
-s2 = Student("Bob", 599)
-print(s2.fullname)
-print(s1.marks)
+
+s1 = Student("Alice",[50,60,40,90])
+s1.avg()
