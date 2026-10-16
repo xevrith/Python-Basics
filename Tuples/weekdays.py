@@ -9,3 +9,7 @@ print()
 print(f"Is Fri exist : {"Fri" in weekdays}")
 print(f"Position Of Wed : {weekdays.index("Wed")}")
 print(f"Number of times Mon Appears : {weekdays.count("Mon")}")
+print()
+
+for day in weekdays:
+    print(day.upper())
