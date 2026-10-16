@@ -29,3 +29,6 @@ acc1 = BankAccount(5000)
 acc1.credit(3000)
 
 acc1.debit(2000,123456789)
+acc2 = BankAccount(3000)
+print(acc2._balance)
+del acc2
