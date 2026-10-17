@@ -9,8 +9,8 @@ class Employee:
     def increase_salary(self,percentage):
         if percentage > 0:
             bonus = self.salary * percentage
-            total_salary = self.salary + bonus
-            print(f"Final Salary : {total_salary}")
+            self.salary += bonus
+            print(f"Final Salary : {self.salary}")
 
         else:
             print("Invalid Input")
