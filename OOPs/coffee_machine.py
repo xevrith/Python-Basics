@@ -12,4 +12,4 @@ class CoffeeMachine:
             print("Not enough resources to make a latte.")
 
 c1 = CoffeeMachine(300, 100, 200)
-c1.make_latte()
+c1.make_latte() 
