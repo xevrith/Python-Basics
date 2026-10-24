@@ -8,4 +8,5 @@ for i in my_list:
         continue
 
 
+
 print(odd_list)
