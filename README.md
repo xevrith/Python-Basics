@@ -1,25 +1,24 @@
 # Python Basics
 
-A collection of Python practice exercises and small examples created while learning Python programming. This repository is organized by topic, so beginners can explore a concept, read the code, run it, and practice modifying it.
+A collection of Python practice exercises and small examples created while learning Python programming. The repository is organized by topic, making it easy to explore a concept, run an example, and practice modifying it.
 
-## What You Will Find
-
-The examples cover Python fundamentals and use small, understandable problems to build coding confidence, problem-solving skills, and logical thinking.
+## Topics Covered
 
 | Folder | Topics and examples |
 | --- | --- |
-| `String` | String operations and text manipulation |
-| `List` | Lists, indexing, updating values, filtering, and practical data-handling exercises such as sales, inventory, customers, and data quality |
-| `Tuples` | Tuple operations, searching, counting, and working with fixed collections |
+| `String` | String operations, text manipulation, searching, and formatting |
+| `Operators` | Arithmetic and comparison logic, chained comparisons, logical operators, identity comparisons, and swapping variable values |
+| `List` | Lists, indexing, updating values, filtering, and practical data-handling exercises |
+| `Tuples` | Tuple operations, searching, counting, and fixed collections |
 | `Sets` | Set operations and working with unique values |
-| `Dict` | Dictionaries, key-value data, lookups, and updates |
+| `Dict` | Dictionaries, key-value data, lookups, counting, and updates |
 | `For Loop` | Iteration, counting, totals, vowels, palindrome checks, reversing, and number patterns |
 | `Nested While Loop Question` | Nested loops and pattern-building exercises |
-| `Functions` | Reusable functions, conditions, calculations, and small problem-solving exercises |
-| `OOPs` | Object-oriented programming examples using classes and objects, including students, employees, products, vehicles, and bank accounts |
+| `Functions` | Reusable functions, conditions, calculations, and problem-solving exercises |
+| `OOPs` | Classes and objects, including examples involving students, employees, products, vehicles, and bank accounts |
 | `Exception Handling and Custom Errors` | Handling invalid input and errors, including numeric and password validation |
 
-Each folder contains individual Python files focused on a particular exercise or idea. File names indicate the problem being practiced.
+Each folder contains individual Python files focused on a particular exercise or concept. File names indicate the problem being practiced.
 
 ## Getting Started
 
@@ -28,30 +27,30 @@ Each folder contains individual Python files focused on a particular exercise or
 - Python 3 installed
 - A code editor or terminal, such as VS Code
 
-No third-party packages are generally needed for these beginner exercises; examples use Python's built-in features unless a file states otherwise.
+These beginner exercises generally use Python's built-in features and do not require third-party packages unless a file says otherwise.
 
-### Run an exercise
+### Run an Exercise
 
 1. Clone or download this repository.
 2. Open the repository folder in your code editor.
-3. Choose a Python file from one of the topic folders.
+3. Choose a Python file from a topic folder.
 4. Open a terminal in the repository directory and run the file. For example:
 
 ```bash
-python "For Loop/even_num.py"
+python "Operators/op3.py"
 ```
 
-On some systems, you may need to use `python3` instead of `python`.
+On some systems, use `python3` instead of `python`.
 
-Because these are independent exercises, run one file at a time. Some scripts ask for input in the terminal.
+These are independent exercises, so run one file at a time. Some scripts may ask for input in the terminal.
 
-## How to Use This Repository
+## How to Practice
 
-- Start with a topic you are learning.
-- Read the code and predict the output before running it.
-- Try changing the input or values.
-- Modify the solution to handle an additional case.
-- Use the exercises as practice material, not as a packaged application.
+- Choose a topic you are currently learning.
+- Predict the output before running the file.
+- Run the exercise and compare the actual output with your prediction.
+- Change values or inputs and observe what happens.
+- Extend the exercise to handle another case.
 
 ## Repository Structure
 
@@ -64,6 +63,7 @@ Python-Basics/
 ├── List/
 ├── Nested While Loop Question/
 ├── OOPs/
+├── Operators/
 ├── Sets/
 ├── String/
 └── Tuples/
@@ -71,10 +71,10 @@ Python-Basics/
 
 ## Project Status
 
-This is a learning repository that grows as new topics and exercises are added. The examples are intended for practice and may vary in difficulty and completeness.
+This is an evolving learning repository. New practice files and topics are added as learning progresses. The examples are intended for educational practice and may vary in difficulty and completeness.
 
 ## Author
 
 Maintained by [@xevrith](https://github.com/xevrith).
 
-If you are also interested in complete beginner-sized applications, see [Python-Mini-Projects](https://github.com/xevrith/Python-Mini-Projects).
+For small beginner-sized applications, see [Python-Mini-Projects](https://github.com/xevrith/Python-Mini-Projects).
