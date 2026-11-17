@@ -21,8 +21,8 @@ The goal is to build strong fundamentals through writing, testing, debugging, an
 | 11 | `11_Exception_Handling` | Try/except, runtime errors, and validation exceptions |
 | 12 | `12_Lambda` | Lambda expressions and their use with common operations |
 | 13 | `13_Comprehension` | List, set, and dictionary comprehensions with conditions |
-| 14 | `14_Variables` | Variable assignment, naming, input, type conversion, and calculations |
-| 15 | `15_Conditional_Statements` | if, elif, else, comparisons, and decision-making |
+| 15 | `15_Variables` | Variable assignment, naming, input, type conversion, and calculations |
+| 16 | `16_Conditional_Statements` | if, elif, else, comparisons, and decision-making |
 
 ## Folder Guide
 
@@ -62,10 +62,10 @@ Small anonymous functions, including calculations, comparisons, transformations,
 ### 13_Comprehension
 Compact collection-building exercises using conditions and transformations.
 
-### 14_Variables
+### 15_Variables
 Five beginner practice tasks covering variable creation, salary calculations, swapping values, input conversion, and a simple bill.
 
-### 15_Conditional_Statements
+### 16_Conditional_Statements
 Five beginner practice tasks covering number classification, even/odd checks, eligibility, grades, and discounts.
 
 ## Getting Started
@@ -82,7 +82,7 @@ Most examples use only Python's standard library.
 Run commands from the repository root. For example:
 
 ```bash
-python "14_Variables/01_create_and_display_variables.py"
+python "15_Variables/01_create_and_display_variables.py"
 ```
 
 On some systems, use `python3` instead of `python`. Run one exercise at a time, especially when it asks for terminal input.
