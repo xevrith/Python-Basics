@@ -21,6 +21,7 @@ The goal is to build strong fundamentals through writing, testing, debugging, an
 | 11 | `11_Exception_Handling` | Try/except, runtime errors, and validation exceptions |
 | 12 | `12_Lambda` | Lambda expressions and their use with common operations |
 | 13 | `13_Comprehension` | List, set, and dictionary comprehensions with conditions |
+| 14 | `14_Regular_Expressions` | Pattern matching with `re`, including `search`, `findall`, and `fullmatch` |
 | 15 | `15_Variables` | Variable assignment, naming, input, type conversion, and calculations |
 | 16 | `16_Conditional_Statements` | if, elif, else, comparisons, and decision-making |
 
@@ -61,6 +62,9 @@ Small anonymous functions, including calculations, comparisons, transformations,
 
 ### 13_Comprehension
 Compact collection-building exercises using conditions and transformations.
+
+### 14_Regular_Expressions
+Pattern matching with Python's `re` module, including finding patterns, extracting matches, and full-string validation.
 
 ### 15_Variables
 Five beginner practice tasks covering variable creation, salary calculations, swapping values, input conversion, and a simple bill.
