@@ -14,3 +14,4 @@ print("Valid" if re.fullmatch(r"\d{5}",pin2)else "Invalid")
 
 phone_number = "9874563210"
 print("Valid" if re.fullmatch(r"\d{10}",phone_number) else "Invalid")
+
