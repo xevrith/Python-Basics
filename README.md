@@ -40,7 +40,7 @@ The goal is to build strong fundamentals through writing, testing, debugging, an
 - **11_Exception_Handling:** Handling invalid input, runtime errors, and validation exceptions.
 - **12_Lambda:** Anonymous functions for calculations, comparisons, transformations, and use with map, filter, and sorted.
 - **13_Comprehension:** Compact collection-building exercises using conditions and transformations.
-- **14_Regular_Expressions:** Pattern matching with `search`, `findall`, `fullmatch`, character sets, anchors, and other regular-expression features.
+- **14_Regular_Expressions:** Pattern matching with `search`, `findall`, `fullmatch`, character sets, anchors, greedy and non-greedy quantifiers, and regex flags (`DOTALL`, `IGNORECASE`, and `MULTILINE`). Includes four practice files with worked answers.
 - **15_Variables:** Beginner tasks covering variable creation, salary calculations, swapping values, input conversion, and simple bills.
 - **16_Conditional_Statements:** Beginner tasks covering number classification, even/odd checks, eligibility, grades, and discounts.
 - **17_File_Handling:** Six practice files covering text file read/write, append operations, record analysis, expense tracking, attendance reports, and word counting. Each file includes tasks and worked answers.
